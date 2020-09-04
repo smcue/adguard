@@ -1,5 +1,3 @@
-## Adguard Discord Community Rules
-
 ### Rules
 
 ```markdown
@@ -18,13 +16,13 @@
 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse.
 14. Please only use the English language, as we cannot moderate any other languages, otherwise you'll be warned and muted.
 
+```
 You may be banned immediately without warning, or recourse if you don't comply with the rules above.
 
-### Roles
-```
+# Roles
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
+# Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
